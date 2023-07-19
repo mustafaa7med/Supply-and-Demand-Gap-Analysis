@@ -20,3 +20,6 @@ analysis is commonly referred to as Gap Analysis.
 - Plotted the aggregated values.
 - Extracted findings from the analysis.
 - Identified data-driven actionable business decisions based on the findings.
+
+------------
+*Full Project can be accessed through this link:* [Supply_And_Demand_Gap_Analysis.ipynb](https://github.com/mustafaa7med/Supply-and-Demand-Gap-Analysis/blob/main/Supply_And_Demand_Gap_Analysis.ipynb)
